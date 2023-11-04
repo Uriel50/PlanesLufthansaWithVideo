@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PlanesLufthansa</string>
+    <string name="capacidad">Capacidad: %1$s pasajeros</string>
+    <string name="flota">Flota: %1$s</string>
+    <string name="longitud">Longitud: %1$s</string>
+    <string name="altura">Altura: %1$s</string>
+    <string name="motor">Motor: %1$s</string>
+    <string name="envergadura">Envergadura: %1$s</string>
+    <string name="velocidadmax">Velocidad maxima: %1$s</string>
+    <string name="autonomia">Autonomía: %1$s</string>
+    <string name="length">Longitud:</string>
+    <string name="heigth">Altura:</string>
+    <string name="engine">Motor:</string>
+    <string name="maximumspeed">Velocidad maxima:</string>
+    <string name="winspan">Envergadura:</string>
+    <string name="autonomy">Autonomía:</string>
+    <string name="title">Title</string>
+    <string name="fabricante">Fabricante</string>
+    <string name="cap">Capacidad</string>
+    <string name="fleet">Flota</string>
+    <string name="id_recibido">Id Recibido: %1$s</string>
+    <string name="no_conexion">No hay conexión</string>
+    <string name="error">Error: %1$s</string>
+
+</resources>
